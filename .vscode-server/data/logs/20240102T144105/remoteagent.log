@@ -1,0 +1,52 @@
+2024-01-02 14:41:05.936 [info] 
+
+
+
+
+2024-01-02 14:41:05.936 [info] Extension host agent started.
+2024-01-02 14:41:05.938 [info] Started initializing default profile extensions in extensions installation folder. file:///home/johnchu/.vscode-server/extensions
+2024-01-02 14:41:05.965 [info] [127.0.0.1][a5dc974e][ManagementConnection] New connection established.
+2024-01-02 14:41:05.967 [info] [127.0.0.1][a5f4d6d2][ExtensionHostConnection] New connection established.
+2024-01-02 14:41:05.982 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/johnchu/.vscode-server/extensions
+2024-01-02 14:41:06.192 [info] [127.0.0.1][a5f4d6d2][ExtensionHostConnection] <2806> Launched Extension Host Process.
+2024-01-02 14:41:16.772 [info] [127.0.0.1][d2669837][ManagementConnection] New connection established.
+2024-01-02 14:41:16.773 [info] [127.0.0.1][a237ed17][ExtensionHostConnection] New connection established.
+2024-01-02 14:41:16.780 [info] [127.0.0.1][a237ed17][ExtensionHostConnection] <2852> Launched Extension Host Process.
+2024-01-02 14:41:17.667 [info] [127.0.0.1][d2669837][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-02 14:46:05.880 [info] New EH opened, aborting shutdown
+2024-01-02 14:48:01.635 [info] [127.0.0.1][3ff1d8d2][ManagementConnection] New connection established.
+2024-01-02 14:48:01.639 [info] [127.0.0.1][980f3e03][ExtensionHostConnection] New connection established.
+2024-01-02 14:48:01.656 [info] [127.0.0.1][980f3e03][ExtensionHostConnection] <2900> Launched Extension Host Process.
+2024-01-02 14:48:04.091 [info] [127.0.0.1][a5dc974e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-02 14:48:04.203 [info] [127.0.0.1][a5f4d6d2][ExtensionHostConnection] <2806> Extension Host Process exited with code: 0, signal: null.
+2024-01-02 14:48:05.476 [info] [127.0.0.1][197232f1][ManagementConnection] New connection established.
+2024-01-02 14:48:05.477 [info] [127.0.0.1][9a3e73a8][ExtensionHostConnection] New connection established.
+2024-01-02 14:48:05.487 [info] [127.0.0.1][9a3e73a8][ExtensionHostConnection] <2939> Launched Extension Host Process.
+2024-01-02 14:48:49.769 [info] [127.0.0.1][197232f1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-02 14:48:49.826 [info] [127.0.0.1][9a3e73a8][ExtensionHostConnection] <2939> Extension Host Process exited with code: 0, signal: null.
+2024-01-02 14:48:50.948 [info] [127.0.0.1][0e896b22][ManagementConnection] New connection established.
+2024-01-02 14:48:50.951 [info] [127.0.0.1][6fc712a8][ExtensionHostConnection] New connection established.
+2024-01-02 14:48:50.959 [info] [127.0.0.1][6fc712a8][ExtensionHostConnection] <2974> Launched Extension Host Process.
+2024-01-02 14:50:33.047 [info] Getting Manifest... ms-python.python
+2024-01-02 14:51:12.798 [error] Failed to install extension. ms-python.python
+2024-01-02 14:51:12.800 [error] Error: connect EHOSTUNREACH 2606:2800:147:ff8:129b:22eb:20b:1347:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)
+2024-01-02 14:51:13.936 [info] Getting Manifest... ms-python.python
+2024-01-02 14:51:20.670 [error] Failed to install extension. ms-python.python
+2024-01-02 14:51:20.670 [error] Error: connect EHOSTUNREACH 2606:2800:147:ff8:129b:22eb:20b:1347:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)
+2024-01-02 14:51:25.503 [info] Downloaded extension to file:///home/johnchu/.vscode-server/data/CachedExtensionVSIXs/93b94997-1361-4c73-a895-afcbf1bc6bb7
+2024-01-02 14:51:26.935 [info] Installing extension: ms-python.vscode-pylance
+2024-01-02 14:51:26.936 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2024-01-02 14:51:36.727 [info] Extracted extension to file:///home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2024-01-02 14:51:36.742 [info] Renamed to /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1
+2024-01-02 14:51:36.747 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-01-02 14:51:36.760 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-01-02 14:51:39.760 [info] Downloaded extension to file:///home/johnchu/.vscode-server/data/CachedExtensionVSIXs/e1f48e1d-63c9-4cf3-a9c8-97f371bb4936
+2024-01-02 14:51:39.772 [info] Installing extension: ms-python.python
+2024-01-02 14:51:39.772 [info] Installing the extension without checking dependencies and pack ms-python.python
+2024-01-02 14:51:45.521 [info] Extracted extension to file:///home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1: ms-python.python
+2024-01-02 14:51:45.529 [info] Renamed to /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1
+2024-01-02 14:51:45.536 [info] Extracting extension completed. ms-python.python
+2024-01-02 14:51:45.550 [info] Extension installed successfully: ms-python.python
+2024-01-02 14:53:02.652 [info] [127.0.0.1][a237ed17][ExtensionHostConnection] <2852> Extension Host Process exited with code: 0, signal: null.

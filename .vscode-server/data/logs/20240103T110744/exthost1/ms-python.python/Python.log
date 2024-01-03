@@ -1,0 +1,187 @@
+2024-01-03 11:07:55.348 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-03 11:07:55.348 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-03 11:07:55.348 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-03 11:07:55.348 [info] Experiment 'pythonTestAdapter' is active
+2024-01-03 11:07:55.348 [info] Test server listening.
+2024-01-03 11:07:55.348 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:55.381 [info] > /usr/local/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 11:07:55.391 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:55.391 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:55.393 [error] [Error: Command failed: /usr/local/bin/python3 -I /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/local/bin/python3: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:525:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/usr/local/bin/python3 -I /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py'
+}
+2024-01-03 11:07:55.418 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 11:07:55.418 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 11:07:55.419 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 11:07:57.405 [info] > /usr/local/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 11:07:57.408 [error] [Error: Command failed: /usr/local/bin/python3 -I /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/local/bin/python3: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:525:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:302:5)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/usr/local/bin/python3 -I /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py'
+}
+2024-01-03 11:07:57.509 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:58.972 [info] Starting Pylance language server.
+2024-01-03 11:07:58.995 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:58.996 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:59.061 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:59.077 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:59.132 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:07:59.137 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.141 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.141 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.141 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.163 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.164 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.191 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.210 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.211 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.265 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.272 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.279 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.291 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:17.301 [error] Invalid Python Path '/usr/local/bin/python3'
+2024-01-03 11:08:22.531 [info] > conda info --json
+2024-01-03 11:08:22.534 [warning] Failed to check if /usr/local/bin/python3 is an executable [Error: ENOENT: no such file or directory, lstat '/usr/local/bin/python3'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/local/bin/python3'
+}
+2024-01-03 11:08:22.548 [info] Found: /bin/python3 --> /bin/python3.10
+2024-01-03 11:08:22.548 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-01-03 11:08:22.571 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-01-03 11:08:22.572 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-01-03 11:08:22.611 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 11:08:22.634 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 11:08:26.584 [info] Python interpreter path: /bin/python3
+2024-01-03 11:08:30.619 [info] CreateEnv Trigger - Workspace not found for /home/johnchu
+2024-01-03 11:08:30.640 [info] DAP Server launched with command: /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-03 11:08:32.548 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52423 -- /home/johnchu/app.py 

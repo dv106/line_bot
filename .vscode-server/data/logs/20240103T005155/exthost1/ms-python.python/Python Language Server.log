@@ -1,0 +1,12 @@
+2024-01-03 00:52:11.393 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-03 00:52:12.231 [info] [Info  - 12:52:12 AM] (1542) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-03 00:52:12.232 [info] [Info  - 12:52:12 AM] (1542) Server root directory: /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-03 00:52:12.259 [info] [Info  - 12:52:12 AM] (1542) Starting service instance "<default>"
+2024-01-03 00:52:12.361 [info] [Info  - 12:52:12 AM] (1542) Setting environmentName for service "<default>": "/usr/local/bin/python3"
+2024-01-03 00:52:12.445 [info] [Info  - 12:52:12 AM] (1542) No source files found.
+2024-01-03 00:52:12.571 [info] [Info  - 12:52:12 AM] (1542) Setting environmentName for service "<default>": "/usr/local/bin/python3"
+2024-01-03 00:52:12.639 [info] [Info  - 12:52:12 AM] (1542) No source files found.
+2024-01-03 00:53:57.871 [info] [Info  - 12:53:57 AM] (1542) Setting environmentName for service "<default>": "/usr/local/bin/python3"
+2024-01-03 00:53:57.939 [info] [Info  - 12:53:57 AM] (1542) No source files found.
+2024-01-03 00:53:57.977 [info] [Info  - 12:53:57 AM] (1542) Setting environmentName for service "<default>": "/usr/local/bin/python3"
+2024-01-03 00:53:58.043 [info] [Info  - 12:53:58 AM] (1542) No source files found.

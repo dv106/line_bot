@@ -1,0 +1,6 @@
+2024-01-02 14:51:07.650 [error] node #4: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2023.22.1/1702504583644/Microsoft.VisualStudio.Code.Manifest - error GET connect EHOSTUNREACH 2606:2800:147:ff8:129b:22eb:20b:1347:443
+2024-01-02 14:51:12.797 [error] node #5: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2023.22.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET connect EHOSTUNREACH 2606:2800:147:ff8:129b:22eb:20b:1347:443
+2024-01-02 14:51:17.021 [error] node #7: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2023.22.1/1702504583644/Microsoft.VisualStudio.Code.Manifest - error GET connect EHOSTUNREACH 2606:2800:147:ff8:129b:22eb:20b:1347:443
+2024-01-02 14:51:20.670 [error] node #9: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2023.22.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET connect EHOSTUNREACH 2606:2800:147:ff8:129b:22eb:20b:1347:443
+2024-01-02 14:51:39.840 [error] node #12: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST connect EHOSTUNREACH 2620:1ec:a92::175:443
+2024-01-02 14:51:48.637 [error] node #14: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST connect EHOSTUNREACH 2620:1ec:a92::175:443

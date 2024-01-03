@@ -1,0 +1,7 @@
+from linebot import LineBotApi
+from linebot.models import TextSendMessage
+
+CHANNEL_ACCESS_TOKEN = "uEM5HgKtoMZf3GsNDzLXKr3tPoqj7Swl6+LuqSeR68TaDknsQ3b08TBjQ7NMg2UJYo8OY7FLnw9Avxa2Tv9iSGR2ZYMonS67dRaOm8ZiN2AwPGLqM1OcqVOgeBXD2VubquiPQtBF0aJaLqFn8EpoYgdB04t89/1O/w1cDnyilFU="
+
+line_bot_api = LineBotApi(CHANNEL_ACCESS_TOKEN)
+line_bot_api.broadcast(TextSendMessage(text = "test"))

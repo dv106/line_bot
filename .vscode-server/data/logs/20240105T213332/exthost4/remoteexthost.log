@@ -1,0 +1,169 @@
+2024-01-05 21:35:48.720 [info] Extension host with pid 1996 started
+2024-01-05 21:35:48.774 [info] Lock '/home/johnchu/.vscode-server/data/User/workspaceStorage/d7bf03a1a47cdbd01257807d333c1f38/vscode.lock': Lock acquired.
+2024-01-05 21:35:48.815 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-05 21:35:48.819 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:app.py'
+2024-01-05 21:35:48.881 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-05 21:35:49.517 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2024-01-05 21:35:49.517 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-01-05 21:35:49.517 [warning] Using default string since no string found in i18n bundle that has the key: Python is unable to parse the code provided. Please
+    turn off Smart Send if you wish to always run line by line or explicitly select code
+    to force run. See [logs](command:{0}) for more details
+2024-01-05 21:35:49.518 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-01-05 21:35:50.116 [info] Eager extensions activated
+2024-01-05 21:35:50.116 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-05 21:35:50.117 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-05 21:35:50.156 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2024-01-05 21:35:53.786 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-05 21:35:54.609 [error] Error: Starting server failed
+	at _.$start (/home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/out/client/extension.js:2:2400390)
+	at async _.sendNotification (/home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/out/client/extension.js:2:2385879)
+2024-01-05 21:35:56.228 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-05 21:36:07.346 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:12.455 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:17.559 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:22.667 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:27.781 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:32.940 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:38.073 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:43.182 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:48.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:53.440 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:36:58.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:20.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:25.190 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:30.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:35.407 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:40.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:45.627 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:50.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:37:55.850 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:38:00.946 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:38:06.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:38:11.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:38:16.224 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:38:21.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:38:26.443 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:41:03.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+2024-01-05 21:43:13.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:43:18.229 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:44:30.433 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:44:35.619 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:44:40.716 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:44:45.804 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:44:50.893 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:44:55.999 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:45:01.103 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:45:06.211 [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+2024-01-05 21:45:11.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:46:36.058 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:46:41.161 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:46:46.267 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:46:51.367 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:46:56.473 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:01.584 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:06.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:11.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:16.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:22.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:27.125 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:32.245 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:37.339 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:42.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:47.669 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:47:52.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:48:27.211 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:48:32.383 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:48:37.604 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:49:15.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:49:31.877 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:49:37.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+2024-01-05 21:59:58.822 [warning] [Decorations] CAPPING events from decorations provider vscode.git 431
+2024-01-05 22:00:03.923 [warning] [Decorations] CAPPING events from decorations provider vscode.git 431
+2024-01-05 22:00:09.023 [warning] [Decorations] CAPPING events from decorations provider vscode.git 431
+2024-01-05 22:00:52.544 [warning] [Decorations] CAPPING events from decorations provider vscode.git 432
+2024-01-05 22:00:57.651 [warning] [Decorations] CAPPING events from decorations provider vscode.git 432
+2024-01-05 22:04:43.739 [warning] [Decorations] CAPPING events from decorations provider vscode.git 432
+2024-01-05 22:04:48.968 [warning] [Decorations] CAPPING events from decorations provider vscode.git 432
+2024-01-06 02:41:23.331 [info] Extension host terminating: renderer disconnected for too long (1)
+2024-01-06 02:41:23.388 [info] Lock '/home/johnchu/.vscode-server/data/User/workspaceStorage/d7bf03a1a47cdbd01257807d333c1f38/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-06 02:41:23.673 [error] Canceled: Canceled
+	at new f (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at z.a (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:6547)
+	at z.h (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:90:19702)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-01-06 02:41:23.706 [error] Canceled: Canceled
+	at new f (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at set b [as b] (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:714708)
+	at /home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:715349
+	at h.value (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1408111)
+	at c.y (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at z.a (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:6547)
+	at z.h (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:90:19702)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2024-01-06 02:41:23.833 [info] Extension host with pid 1996 exiting with code 0

@@ -1,0 +1,72 @@
+2024-01-07 18:34:36.752 [info] Extension host with pid 1377 started
+2024-01-07 18:34:36.842 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-07 18:34:36.974 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-07 18:34:36.974 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-07 18:34:37.412 [info] Eager extensions activated
+2024-01-07 18:34:37.413 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-07 18:34:37.413 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-07 18:34:46.345 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-01-07 18:34:46.346 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-07 18:34:47.340 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2024-01-07 18:34:47.340 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-01-07 18:34:47.340 [warning] Using default string since no string found in i18n bundle that has the key: Python is unable to parse the code provided. Please
+    turn off Smart Send if you wish to always run line by line or explicitly select code
+    to force run. See [logs](command:{0}) for more details
+2024-01-07 18:34:47.341 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-01-07 18:34:47.738 [warning] [Decorations] CAPPING events from decorations provider vscode.git 439
+2024-01-07 18:34:48.130 [warning] [Decorations] CAPPING events from decorations provider vscode.git 439
+2024-01-07 18:34:48.250 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-01-07 18:34:52.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:34:57.639 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:02.770 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:07.874 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:12.985 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:18.083 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:23.251 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:28.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:33.447 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:38.546 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:43.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:48.734 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:53.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:35:58.916 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:04.082 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:09.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:14.278 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:19.448 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:24.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:29.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:34.756 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:39.857 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:44.947 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:50.097 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:36:55.236 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:00.330 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:05.426 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:10.525 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:15.626 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:20.726 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:23.305 [error] [ms-python.python] provider FAILED
+2024-01-07 18:37:23.306 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async ie.provideCompletionItems (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2024-01-07 18:37:25.859 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:30.944 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:36.044 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:41.222 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:46.343 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:51.445 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:37:56.547 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:38:01.666 [warning] [Decorations] CAPPING events from decorations provider vscode.git 442
+2024-01-07 18:38:06.805 [warning] [Decorations] CAPPING events from decorations provider vscode.git 443
+2024-01-07 18:46:00.062 [warning] [Decorations] CAPPING events from decorations provider vscode.git 443
+2024-01-07 18:46:05.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 443

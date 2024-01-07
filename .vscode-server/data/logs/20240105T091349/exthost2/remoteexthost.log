@@ -1,0 +1,17 @@
+2024-01-05 13:19:59.412 [info] Extension host with pid 2420 started
+2024-01-05 13:19:59.779 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-01-05 13:19:59.785 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-05 13:20:00.880 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-05 13:20:01.015 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-01-05 13:20:01.815 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-05 13:20:01.816 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-05 13:20:02.084 [info] Eager extensions activated
+2024-01-05 13:20:02.084 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-05 13:20:02.085 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-05 13:20:33.680 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2024-01-05 15:06:15.668 [error] [ms-python.python] provider FAILED
+2024-01-05 15:06:15.670 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async ie.provideCompletionItems (/home/johnchu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)

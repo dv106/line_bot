@@ -1,0 +1,22 @@
+2024-01-04 11:07:24.213 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-04 11:07:25.667 [info] [Info  - 11:07:25 AM] (2527) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-04 11:07:25.720 [info] [Info  - 11:07:25 AM] (2527) Server root directory: /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-04 11:07:25.753 [info] [Info  - 11:07:25 AM] (2527) Starting service instance "<default>"
+2024-01-04 11:07:25.821 [info] [Info  - 11:07:25 AM] (2527) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-04 11:07:25.821 [info] [Info  - 11:07:25 AM] (2527) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-01-04 11:07:25.871 [info] [Info  - 11:07:25 AM] (2527) Assuming Python version 3.10
+2024-01-04 11:07:26.065 [info] [Info  - 11:07:26 AM] (2527) No source files found.
+2024-01-04 11:07:26.226 [info] [Info  - 11:07:26 AM] (2527) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-04 11:07:26.226 [info] [Info  - 11:07:26 AM] (2527) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-01-04 11:07:26.309 [info] [Info  - 11:07:26 AM] (2527) Assuming Python version 3.10
+2024-01-04 11:07:26.414 [info] [Info  - 11:07:26 AM] (2527) No source files found.
+2024-01-04 11:07:29.510 [info] [Info  - 11:07:29 AM] (2527) [BG(1)] Long operation: analyzing: /home/johnchu/eazyweb.py (2180ms)
+2024-01-04 11:07:33.603 [info] [Info  - 11:07:33 AM] (2527) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-04 11:07:33.604 [info] [Info  - 11:07:33 AM] (2527) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-01-04 11:07:33.737 [info] [Info  - 11:07:33 AM] (2527) Assuming Python version 3.10
+2024-01-04 11:07:33.872 [info] [Info  - 11:07:33 AM] (2527) No source files found.
+2024-01-04 11:07:34.051 [info] [Info  - 11:07:34 AM] (2527) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-04 11:07:34.051 [info] [Info  - 11:07:34 AM] (2527) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-01-04 11:07:34.155 [info] [Info  - 11:07:34 AM] (2527) Assuming Python version 3.10
+2024-01-04 11:07:34.388 [info] [Info  - 11:07:34 AM] (2527) No source files found.
+2024-01-04 11:07:41.668 [info] [Info  - 11:07:41 AM] (2527) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1704337649522 at /home/johnchu/eazyweb.py (6923ms)

@@ -1,0 +1,22 @@
+2024-01-05 21:35:08.815 [info] 記錄層級: Info
+2024-01-05 21:35:08.815 [info] 正在驗證在下列位置找到的 Git: "git"
+2024-01-05 21:35:08.815 [info] 正在使用來自 "2.34.1" 的 Git "git"
+2024-01-05 21:35:08.815 [info] > git rev-parse --show-toplevel [19ms]
+2024-01-05 21:35:19.407 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-05 21:35:19.427 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-01-05 21:35:19.443 [info] Open repository: /home/johnchu
+2024-01-05 21:35:19.470 [info] > git config --get commit.template [9ms]
+2024-01-05 21:35:19.562 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [72ms]
+2024-01-05 21:35:19.858 [info] > git show --textconv :eazyweb.py [30ms]
+2024-01-05 21:35:19.874 [info] > git ls-files --stage -- /home/johnchu/eazyweb.py [23ms]
+2024-01-05 21:35:19.890 [info] > git cat-file -s 050643d40cd09cede9838246691dbcb058a60829 [3ms]
+2024-01-05 21:35:20.016 [info] > git status -z -uall [440ms]
+2024-01-05 21:35:20.052 [info] > git check-ignore -v -z --stdin [9ms]
+2024-01-05 21:35:20.055 [info] > git config --get commit.template [4ms]
+2024-01-05 21:35:20.066 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-01-05 21:35:20.206 [info] > git status -z -uall [130ms]
+2024-01-05 21:35:23.401 [info] > git check-ignore -v -z --stdin [17ms]
+2024-01-05 21:35:24.209 [info] > git config --get commit.template [4ms]
+2024-01-05 21:35:24.229 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-01-05 21:35:24.350 [info] > git status -z -uall [74ms]
+2024-01-05 21:35:27.262 [info] > git check-ignore -v -z --stdin [94ms]

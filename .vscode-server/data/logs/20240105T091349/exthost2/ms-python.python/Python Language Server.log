@@ -1,0 +1,13 @@
+2024-01-05 13:20:02.897 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-05 13:20:03.800 [info] [Info  - 1:20:03 PM] (2456) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-05 13:20:03.801 [info] [Info  - 1:20:03 PM] (2456) Server root directory: /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-05 13:20:03.837 [info] [Info  - 1:20:03 PM] (2456) Starting service instance "<default>"
+2024-01-05 13:20:03.902 [info] [Info  - 1:20:03 PM] (2456) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-05 13:20:03.902 [info] [Info  - 1:20:03 PM] (2456) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-01-05 13:20:03.949 [info] [Info  - 1:20:03 PM] (2456) Assuming Python version 3.10
+2024-01-05 13:20:04.034 [info] [Info  - 1:20:04 PM] (2456) No source files found.
+2024-01-05 13:20:04.243 [info] [Info  - 1:20:04 PM] (2456) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-05 13:20:04.243 [info] [Info  - 1:20:04 PM] (2456) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-01-05 13:20:04.271 [info] [Info  - 1:20:04 PM] (2456) Assuming Python version 3.10
+2024-01-05 13:20:04.356 [info] [Info  - 1:20:04 PM] (2456) No source files found.
+2024-01-05 13:20:08.451 [info] [Info  - 1:20:08 PM] (2456) [BG(1)] Long operation: getSemanticTokens full at /home/johnchu/eazyweb.py (3156ms)

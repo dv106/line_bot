@@ -1,0 +1,19 @@
+2024-01-05 21:35:51.469 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-05 21:35:52.157 [info] [Info  - 9:35:52 PM] (2043) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-05 21:35:52.158 [info] [Info  - 9:35:52 PM] (2043) Server root directory: /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-05 21:35:52.159 [info] [Info  - 9:35:52 PM] (2043) Starting service instance "johnchu"
+2024-01-05 21:35:52.203 [info] [Error - 9:35:52 PM] (2043) Error reading settings: Error: Request workspace/configuration failed with message: Not allowed to resolve environment in an untrusted workspace
+2024-01-05 21:35:52.243 [info] [Info  - 9:35:52 PM] (2043) Found 3 source files
+2024-01-05 21:35:53.729 [info] [Error - 9:35:53 PM] Server process exited with code 0.
+2024-01-05 21:35:55.058 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-05 21:35:55.641 [info] [Info  - 9:35:55 PM] (2110) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-05 21:35:55.641 [info] [Info  - 9:35:55 PM] (2110) Server root directory: /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-05 21:35:55.655 [info] [Info  - 9:35:55 PM] (2110) Starting service instance "johnchu"
+2024-01-05 21:35:55.706 [info] [Info  - 9:35:55 PM] (2110) Setting pythonPath for service "johnchu": "/bin/python3"
+2024-01-05 21:35:55.707 [info] [Info  - 9:35:55 PM] (2110) Setting environmentName for service "johnchu": "3.10.12 (全域)"
+2024-01-05 21:35:55.748 [info] [Info  - 9:35:55 PM] (2110) Assuming Python version 3.10
+2024-01-05 21:35:55.826 [info] [Info  - 9:35:55 PM] (2110) Found 3 source files
+2024-01-05 21:36:00.223 [info] [Info  - 9:36:00 PM] (2110) [BG(1)] Long operation: checking: /home/johnchu/eazyweb.py (2351ms)
+2024-01-05 21:36:00.223 [info] [Info  - 9:36:00 PM] (2110) [BG(1)] Long operation: analyzing: /home/johnchu/eazyweb.py (2420ms)
+2024-01-05 21:36:02.716 [info] [Info  - 9:36:02 PM] (2110) [IDX(2)] Long operation: index execution environment /home/johnchu (3517ms)
+2024-01-05 21:36:02.744 [info] [Info  - 9:36:02 PM] (2110) [IDX(2)] Long operation: index packages /home/johnchu (3563ms)

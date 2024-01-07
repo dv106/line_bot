@@ -1,0 +1,18 @@
+2024-01-04 10:14:17.374 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-04 10:14:17.375 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-04 10:14:17.375 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-04 10:14:17.375 [info] Experiment 'pythonTestAdapter' is active
+2024-01-04 10:14:17.919 [info] Test server listening.
+2024-01-04 10:14:17.920 [info] Python interpreter path: /bin/python3
+2024-01-04 10:14:19.360 [info] Starting Pylance language server.
+2024-01-04 10:19:08.195 [info] CreateEnv Trigger - Workspace not found for /home/johnchu
+2024-01-04 10:19:08.208 [info] DAP Server launched with command: /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-04 10:19:09.810 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50507 -- /home/johnchu/eazyweb.py 
+2024-01-04 10:21:07.451 [info] DAP Server launched with command: /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-04 10:21:07.682 [info] Send text to terminal:  cd /home/johnchu ; /usr/bin/env /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39919 -- /home/johnchu/eazyweb.py 
+2024-01-04 10:23:08.522 [info] DAP Server launched with command: /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-04 10:23:08.735 [info] Send text to terminal:  cd /home/johnchu ; /usr/bin/env /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55845 -- /home/johnchu/eazyweb.py 
+2024-01-04 10:27:52.423 [info] DAP Server launched with command: /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-04 10:27:52.668 [info] Send text to terminal:  cd /home/johnchu ; /usr/bin/env /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49791 -- /home/johnchu/eazyweb.py 
+2024-01-04 10:28:16.486 [info] DAP Server launched with command: /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter
+2024-01-04 10:28:16.694 [info] Send text to terminal:  cd /home/johnchu ; /usr/bin/env /bin/python3 /home/johnchu/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42437 -- /home/johnchu/eazyweb.py 

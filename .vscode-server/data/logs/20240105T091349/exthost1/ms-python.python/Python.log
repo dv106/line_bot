@@ -1,0 +1,14 @@
+2024-01-05 09:13:57.857 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-05 09:13:57.857 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-05 09:13:57.857 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-05 09:13:57.857 [info] Experiment 'pythonTestAdapter' is active
+2024-01-05 09:13:57.857 [info] Test server listening.
+2024-01-05 09:13:57.858 [info] Python interpreter path: /bin/python3
+2024-01-05 09:13:58.007 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-05 09:13:58.007 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-05 09:13:58.007 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-05 09:13:59.392 [info] Starting Pylance language server.
+2024-01-05 11:20:01.194 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/normalizeSelection.py
+2024-01-05 11:20:01.366 [info] Send text to terminal: /bin/python3
+2024-01-05 11:20:02.242 [info] Send text to terminal: import openai
+

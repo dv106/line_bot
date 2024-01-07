@@ -1,0 +1,10 @@
+2024-01-04 10:12:41.480 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-04 10:12:41.480 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-04 10:12:41.480 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-04 10:12:41.480 [info] Experiment 'pythonTestAdapter' is active
+2024-01-04 10:12:42.109 [info] Test server listening.
+2024-01-04 10:12:42.110 [info] Python interpreter path: /bin/python3
+2024-01-04 10:12:42.270 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-04 10:12:42.270 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-04 10:12:42.270 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-04 10:12:43.595 [info] Starting Pylance language server.

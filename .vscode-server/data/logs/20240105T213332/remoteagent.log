@@ -1,0 +1,48 @@
+2024-01-05 21:33:32.555 [info] 
+
+
+
+
+2024-01-05 21:33:32.579 [info] Extension host agent started.
+2024-01-05 21:33:32.679 [info] [127.0.0.1][b6484056][ExtensionHostConnection] New connection established.
+2024-01-05 21:33:32.680 [info] [127.0.0.1][88fc7842][ManagementConnection] New connection established.
+2024-01-05 21:33:32.880 [info] [127.0.0.1][b6484056][ExtensionHostConnection] <1386> Launched Extension Host Process.
+2024-01-05 21:33:50.208 [info] [127.0.0.1][88fc7842][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-05 21:33:50.235 [info] [127.0.0.1][b6484056][ExtensionHostConnection] <1386> Extension Host Process exited with code: 0, signal: null.
+2024-01-05 21:33:50.236 [info] Cancelling previous shutdown timeout
+2024-01-05 21:33:50.237 [info] Last EH closed, waiting before shutting down
+2024-01-05 21:34:41.132 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-01-05 21:34:41.132 [info] Cancelling previous shutdown timeout
+2024-01-05 21:34:41.269 [info] [127.0.0.1][09258ba8][ManagementConnection] New connection established.
+2024-01-05 21:34:41.270 [info] [127.0.0.1][5b3b1ecf][ExtensionHostConnection] New connection established.
+2024-01-05 21:34:41.277 [info] [127.0.0.1][5b3b1ecf][ExtensionHostConnection] <1549> Launched Extension Host Process.
+2024-01-05 21:34:53.973 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:54.071 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:55.043 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:55.321 [info] Extracted extension to file:///home/johnchu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.84.2023111509: ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:55.333 [info] Renamed to /home/johnchu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.84.2023111509
+2024-01-05 21:34:55.337 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:55.345 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:55.438 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hant
+2024-01-05 21:34:56.858 [info] [127.0.0.1][09258ba8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-05 21:34:57.322 [info] [127.0.0.1][5b3b1ecf][ExtensionHostConnection] <1549> Extension Host Process exited with code: 0, signal: null.
+2024-01-05 21:34:57.323 [info] Cancelling previous shutdown timeout
+2024-01-05 21:34:57.323 [info] Last EH closed, waiting before shutting down
+2024-01-05 21:35:04.944 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-01-05 21:35:04.944 [info] Cancelling previous shutdown timeout
+2024-01-05 21:35:05.046 [info] [127.0.0.1][3d968526][ManagementConnection] New connection established.
+2024-01-05 21:35:05.050 [info] [127.0.0.1][5fd1b038][ExtensionHostConnection] New connection established.
+2024-01-05 21:35:05.137 [info] [127.0.0.1][5fd1b038][ExtensionHostConnection] <1727> Launched Extension Host Process.
+2024-01-05 21:35:43.071 [info] [127.0.0.1][3d968526][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-05 21:35:43.223 [info] [127.0.0.1][5fd1b038][ExtensionHostConnection] <1727> Extension Host Process exited with code: 0, signal: null.
+2024-01-05 21:35:43.223 [info] Cancelling previous shutdown timeout
+2024-01-05 21:35:43.223 [info] Last EH closed, waiting before shutting down
+2024-01-05 21:35:47.539 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-01-05 21:35:47.539 [info] Cancelling previous shutdown timeout
+2024-01-05 21:35:47.633 [info] [127.0.0.1][96786cbe][ManagementConnection] New connection established.
+2024-01-05 21:35:47.637 [info] [127.0.0.1][5112c960][ExtensionHostConnection] New connection established.
+2024-01-05 21:35:47.642 [info] [127.0.0.1][5112c960][ExtensionHostConnection] <1996> Launched Extension Host Process.
+2024-01-05 21:40:47.544 [info] New EH opened, aborting shutdown
+2024-01-06 02:41:24.029 [info] [127.0.0.1][5112c960][ExtensionHostConnection] <1996> Extension Host Process exited with code: 0, signal: null.
+2024-01-06 02:41:24.034 [info] Last EH closed, waiting before shutting down
+2024-01-06 02:46:24.036 [info] Last EH closed, shutting down

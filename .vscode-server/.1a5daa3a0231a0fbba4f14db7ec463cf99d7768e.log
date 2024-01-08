@@ -5,17 +5,22 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:43167 (IPv4)
-Extension host agent listening on 43167
+Server bound to 127.0.0.1:39595 (IPv4)
+Extension host agent listening on 39595
 
-[18:34:35] 
-
-
+[22:48:18] 
 
 
-[18:34:35] Extension host agent started.
-[18:34:35] [127.0.0.1][36110266][ManagementConnection] New connection established.
-[18:34:35] [127.0.0.1][9f84846f][ExtensionHostConnection] New connection established.
-[18:34:35] [127.0.0.1][9f84846f][ExtensionHostConnection] <1377> Launched Extension Host Process.
+
+
+[22:48:19] Extension host agent started.
+[22:48:19] [127.0.0.1][a5970874][ManagementConnection] New connection established.
+[22:48:19] [127.0.0.1][adcdcc51][ExtensionHostConnection] New connection established.
+[22:48:19] [127.0.0.1][7e57c341][ManagementConnection] New connection established.
+[22:48:19] [127.0.0.1][1c6e477d][ExtensionHostConnection] New connection established.
+[22:48:19] [127.0.0.1][adcdcc51][ExtensionHostConnection] <1418> Launched Extension Host Process.
+[22:48:19] [127.0.0.1][1c6e477d][ExtensionHostConnection] <1419> Launched Extension Host Process.
+[22:48:31] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/johnchu/.vscode-server/data/logs/20240102T144105/exthost4/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/johnchu)
+[22:48:31] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/johnchu/.vscode-server/data/logs/20240102T144105/exthost4/vscode.git' failed: No such file or directory
 New EH opened, aborting shutdown
-[18:39:35] New EH opened, aborting shutdown
+[22:53:19] New EH opened, aborting shutdown

@@ -1,0 +1,15 @@
+2024-01-08 22:48:18.983 [info] 
+
+
+
+
+2024-01-08 22:48:19.026 [info] Extension host agent started.
+2024-01-08 22:48:19.198 [info] [127.0.0.1][a5970874][ManagementConnection] New connection established.
+2024-01-08 22:48:19.201 [info] [127.0.0.1][adcdcc51][ExtensionHostConnection] New connection established.
+2024-01-08 22:48:19.202 [info] [127.0.0.1][7e57c341][ManagementConnection] New connection established.
+2024-01-08 22:48:19.204 [info] [127.0.0.1][1c6e477d][ExtensionHostConnection] New connection established.
+2024-01-08 22:48:19.589 [info] [127.0.0.1][adcdcc51][ExtensionHostConnection] <1418> Launched Extension Host Process.
+2024-01-08 22:48:19.600 [info] [127.0.0.1][1c6e477d][ExtensionHostConnection] <1419> Launched Extension Host Process.
+2024-01-08 22:48:31.228 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/johnchu/.vscode-server/data/logs/20240102T144105/exthost4/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/johnchu)
+2024-01-08 22:48:31.228 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/johnchu/.vscode-server/data/logs/20240102T144105/exthost4/vscode.git' failed: No such file or directory
+2024-01-08 22:53:19.028 [info] New EH opened, aborting shutdown

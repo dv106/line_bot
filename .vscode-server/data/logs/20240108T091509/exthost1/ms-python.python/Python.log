@@ -1,0 +1,11 @@
+2024-01-08 09:15:19.627 [info] 實驗 'pythonRecommendTensorboardExtcf' 為使用中
+2024-01-08 09:15:19.627 [info] 實驗 'pythonREPLSmartSend' 為使用中
+2024-01-08 09:15:19.627 [info] 實驗 'pythonTerminalEnvVarActivationcf' 為使用中
+2024-01-08 09:15:19.627 [info] 實驗 'pythonTestAdapter' 為使用中
+2024-01-08 09:15:19.627 [info] Test server listening.
+2024-01-08 09:15:19.671 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-08 09:15:19.748 [info] Python 解譯器路徑: /bin/python3
+2024-01-08 09:15:19.841 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-08 09:15:19.841 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-08 09:15:19.842 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-08 09:15:21.322 [info] 正在啟動 Pylance 語言伺服器。

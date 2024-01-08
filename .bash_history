@@ -102,3 +102,37 @@ echo $OPENAI_API_KEY
 python3 eazyweb.py
 pip install openai==0.28
 python3 eazyweb.py
+ll
+sudo touch .env.sample
+ls
+ll
+ngrok config add-authtoken 2aTdapaGnS50YMBnlfsCAWrjQgs_7piiMme3zpwT9AXnSt73
+ngrok http 5000
+echo $OPENAI_API_KEY
+. .env
+echo $OPENAI_API_KEY
+python3 eazyweb.py
+cat .env
+sudo vim .env.example
+cat .env.example
+git init
+gid add.
+git add.
+git add .
+git commit -m "首次提交"
+git remote add origin https://github.com/dv106
+git remote set-url origin https://github.com/dv106
+git push -u origin master
+git remote set-url origin https://github.com/dv106/line_bot
+git push -u origin master
+ssh -T git@github.com
+git push -u origin master
+git remote -v
+git remote set-url origin git@github.com:dv106/line_bot.git
+git push -u origin master
+. .env
+ngrok config add-authtoken 2aTdapaGnS50YMBnlfsCAWrjQgs_7piiMme3zpwT9AXnSt73
+ngrok http 5000
+. .env
+python3 app.py
+python3 eazyweb.py

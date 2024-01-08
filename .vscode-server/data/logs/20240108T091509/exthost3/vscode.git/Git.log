@@ -1,0 +1,19 @@
+2024-01-08 10:00:27.401 [info] 記錄層級: Info
+2024-01-08 10:00:27.401 [info] 正在驗證在下列位置找到的 Git: "git"
+2024-01-08 10:00:27.401 [info] 正在使用來自 "2.34.1" 的 Git "git"
+2024-01-08 10:00:27.401 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-08 10:00:27.402 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-01-08 10:00:27.402 [info] Open repository: /home/johnchu
+2024-01-08 10:00:27.402 [info] > git config --get commit.template [4ms]
+2024-01-08 10:00:27.402 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-01-08 10:00:27.524 [info] > git status -z -uall [128ms]
+2024-01-08 10:00:27.591 [info] > git config --get commit.template [31ms]
+2024-01-08 10:00:27.592 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-01-08 10:00:27.673 [info] > git status -z -uall [59ms]
+2024-01-08 10:00:28.041 [info] > git check-ignore -v -z --stdin [60ms]
+2024-01-08 10:00:28.095 [info] > git show --textconv :app.py [19ms]
+2024-01-08 10:00:28.100 [info] > git ls-files --stage -- /home/johnchu/app.py [16ms]
+2024-01-08 10:00:28.109 [info] > git cat-file -s abbdda6c2784e862f71df8030ea4a37ee81e486b [2ms]
+2024-01-08 10:00:33.707 [info] > git show --textconv :eazyweb.py [23ms]
+2024-01-08 10:00:33.708 [info] > git ls-files --stage -- /home/johnchu/eazyweb.py [15ms]
+2024-01-08 10:00:33.725 [info] > git cat-file -s d9036c5aa38a3cd01128a577e79bd089b7a68d33 [7ms]

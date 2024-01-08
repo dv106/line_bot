@@ -1,0 +1,19 @@
+2024-01-08 09:36:29.882 [info] 記錄層級: Info
+2024-01-08 09:36:29.882 [info] 正在驗證在下列位置找到的 Git: "git"
+2024-01-08 09:36:29.882 [info] 正在使用來自 "2.34.1" 的 Git "git"
+2024-01-08 09:36:29.883 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-08 09:36:29.883 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-01-08 09:36:29.883 [info] Open repository: /home/johnchu
+2024-01-08 09:36:29.883 [info] > git config --get commit.template [6ms]
+2024-01-08 09:36:29.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-01-08 09:36:30.032 [info] > git status -z -uall [135ms]
+2024-01-08 09:36:30.073 [info] > git config --get commit.template [16ms]
+2024-01-08 09:36:30.075 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-01-08 09:36:30.165 [info] > git status -z -uall [79ms]
+2024-01-08 09:36:30.438 [info] > git check-ignore -v -z --stdin [19ms]
+2024-01-08 09:36:30.556 [info] > git ls-files --stage -- /home/johnchu/app.py [13ms]
+2024-01-08 09:36:30.568 [info] > git show --textconv :app.py [34ms]
+2024-01-08 09:36:30.586 [info] > git cat-file -s abbdda6c2784e862f71df8030ea4a37ee81e486b [19ms]
+2024-01-08 09:37:03.556 [info] > git config --get commit.template [15ms]
+2024-01-08 09:37:03.557 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-01-08 09:37:03.625 [info] > git status -z -uall [58ms]

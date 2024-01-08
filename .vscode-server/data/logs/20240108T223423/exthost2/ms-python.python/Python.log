@@ -1,0 +1,13 @@
+2024-01-08 22:35:05.960 [info] 實驗 'pythonRecommendTensorboardExtcf' 為使用中
+2024-01-08 22:35:05.960 [info] 實驗 'pythonREPLSmartSend' 為使用中
+2024-01-08 22:35:05.960 [info] 實驗 'pythonTerminalEnvVarActivationcf' 為使用中
+2024-01-08 22:35:05.960 [info] 實驗 'pythonTestAdapter' 為使用中
+2024-01-08 22:35:06.092 [info] Default formatter is set to null for workspace /home/johnchu
+2024-01-08 22:35:06.845 [info] Test server listening.
+2024-01-08 22:35:06.957 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-08 22:35:07.180 [info] Python 解譯器路徑: /bin/python3
+2024-01-08 22:35:09.325 [info] 正在啟動 Pylance 語言伺服器。
+2024-01-08 22:37:24.979 [info] Discover tests for workspace name: johnchu - uri: /home/johnchu/.local/lib/python3.10/site-packages/numpy/f2py/setup.cfg
+2024-01-08 22:39:10.697 [info] Discover tests for workspace name: johnchu - uri: /home/johnchu/master.py
+2024-01-08 22:42:08.918 [info] Discover tests for workspace name: johnchu - uri: /home/johnchu/master.py
+2024-01-08 22:45:48.527 [info] Discover tests for workspace name: johnchu - uri: /home/johnchu/master.py

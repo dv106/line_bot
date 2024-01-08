@@ -1,0 +1,14 @@
+2024-01-08 22:34:33.733 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-08 22:34:34.809 [info] [Info  - 10:34:34 PM] (1590) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-08 22:34:34.811 [info] [Info  - 10:34:34 PM] (1590) Server root directory: /home/johnchu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-08 22:34:34.858 [info] [Info  - 10:34:34 PM] (1590) Starting service instance "<default>"
+2024-01-08 22:34:34.933 [info] [Info  - 10:34:34 PM] (1590) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-08 22:34:34.935 [info] [Info  - 10:34:34 PM] (1590) Setting environmentName for service "<default>": "3.10.12 (全域)"
+2024-01-08 22:34:35.031 [info] [Info  - 10:34:35 PM] (1590) Assuming Python version 3.10
+2024-01-08 22:34:35.272 [info] [Info  - 10:34:35 PM] (1590) No source files found.
+2024-01-08 22:34:35.450 [info] [Info  - 10:34:35 PM] (1590) Setting pythonPath for service "<default>": "/bin/python3"
+2024-01-08 22:34:35.451 [info] [Info  - 10:34:35 PM] (1590) Setting environmentName for service "<default>": "3.10.12 (全域)"
+2024-01-08 22:34:35.521 [info] [Info  - 10:34:35 PM] (1590) Assuming Python version 3.10
+2024-01-08 22:34:35.624 [info] [Info  - 10:34:35 PM] (1590) No source files found.
+2024-01-08 22:34:39.105 [info] [Info  - 10:34:39 PM] (1590) [BG(1)] Long operation: checking: /home/johnchu/eazyweb.py (2148ms)
+2024-01-08 22:34:39.105 [info] [Info  - 10:34:39 PM] (1590) [BG(1)] Long operation: analyzing: /home/johnchu/eazyweb.py (2541ms)

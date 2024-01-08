@@ -1,0 +1,19 @@
+2024-01-08 09:15:09.072 [info] 
+
+
+
+
+2024-01-08 09:15:09.098 [info] Extension host agent started.
+2024-01-08 09:15:09.210 [info] [127.0.0.1][63de3e9e][ManagementConnection] New connection established.
+2024-01-08 09:15:09.215 [info] [127.0.0.1][3a5bb603][ExtensionHostConnection] New connection established.
+2024-01-08 09:15:09.428 [info] [127.0.0.1][3a5bb603][ExtensionHostConnection] <1481> Launched Extension Host Process.
+2024-01-08 09:20:09.109 [info] New EH opened, aborting shutdown
+2024-01-08 09:33:54.915 [info] [127.0.0.1][63de3e9e][ManagementConnection] The client has reconnected.
+2024-01-08 09:33:56.487 [info] [127.0.0.1][3a5bb603][ExtensionHostConnection] The client has reconnected.
+2024-01-08 09:36:26.475 [info] [127.0.0.1][d3284e6e][ManagementConnection] New connection established.
+2024-01-08 09:36:26.478 [info] [127.0.0.1][ae085c1b][ExtensionHostConnection] New connection established.
+2024-01-08 09:36:26.489 [info] [127.0.0.1][ae085c1b][ExtensionHostConnection] <1951> Launched Extension Host Process.
+2024-01-08 10:00:23.467 [info] [127.0.0.1][e2c386dd][ManagementConnection] New connection established.
+2024-01-08 10:00:23.473 [info] [127.0.0.1][7865fd84][ExtensionHostConnection] New connection established.
+2024-01-08 10:00:23.488 [info] [127.0.0.1][7865fd84][ExtensionHostConnection] <2224> Launched Extension Host Process.
+2024-01-08 10:05:24.580 [info] [127.0.0.1][3a5bb603][ExtensionHostConnection] <1481> Extension Host Process exited with code: 0, signal: null.

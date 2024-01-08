@@ -1,0 +1,22 @@
+2024-01-08 22:34:26.981 [info] 記錄層級: Info
+2024-01-08 22:34:26.981 [info] 正在驗證在下列位置找到的 Git: "git"
+2024-01-08 22:34:26.981 [info] 正在使用來自 "2.34.1" 的 Git "git"
+2024-01-08 22:34:30.835 [info] > git rev-parse --show-toplevel [24ms]
+2024-01-08 22:34:30.860 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-01-08 22:34:30.899 [info] Open repository: /home/johnchu
+2024-01-08 22:34:30.928 [info] > git config --get commit.template [15ms]
+2024-01-08 22:34:31.728 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [805ms]
+2024-01-08 22:34:32.742 [info] > git status -z -uall [1005ms]
+2024-01-08 22:34:32.746 [info] > git check-ignore -v -z --stdin [20ms]
+2024-01-08 22:34:32.791 [info] > git config --get commit.template [4ms]
+2024-01-08 22:34:32.828 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2024-01-08 22:34:32.839 [info] > git show --textconv :eazyweb.py [26ms]
+2024-01-08 22:34:32.839 [info] > git ls-files --stage -- /home/johnchu/eazyweb.py [13ms]
+2024-01-08 22:34:32.893 [info] > git cat-file -s d9036c5aa38a3cd01128a577e79bd089b7a68d33 [33ms]
+2024-01-08 22:34:32.896 [info] > git status -z -uall [59ms]
+2024-01-08 22:34:36.789 [info] > git config --get commit.template [14ms]
+2024-01-08 22:34:36.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-01-08 22:34:36.911 [info] > git status -z -uall [115ms]
+2024-01-08 22:34:41.940 [info] > git config --get commit.template [12ms]
+2024-01-08 22:34:41.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-01-08 22:34:42.036 [info] > git status -z -uall [69ms]
